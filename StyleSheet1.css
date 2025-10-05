@@ -1,0 +1,71 @@
+﻿/* ===== Global Styles ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #1e1e2f;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+/* ===== Sections ===== */
+section {
+  padding: 50px 15%;
+  border-bottom: 1px solid #ddd;
+}
+
+section:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+section h2 {
+  margin-bottom: 15px;
+  color: #1e1e2f;
+}
+
+section p {
+  max-width: 700px;
+}
+
+/* ===== Buttons ===== */
+button {
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin: 10px 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+  transform: translateY(-2px);
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #1e1e2f;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  position: relative;
+}
