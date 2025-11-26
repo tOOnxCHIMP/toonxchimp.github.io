@@ -75,10 +75,10 @@ button:hover {
 footer {
   background-color: #1e1e2f;
   color: white;
-  text-align: bottom;
+  text-align: center;
   padding: 20px;
   font-size: 0.9rem;
-  position: relative;
+  position: flex;
 }
 
 /* ===== Hidden Sections ===== */
