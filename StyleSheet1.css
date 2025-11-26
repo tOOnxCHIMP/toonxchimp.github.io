@@ -9,6 +9,7 @@ body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f9f9f9;
   color: #333;
+  height: 100%;
   line-height: 1.6;
   background-image: url("SiteBackground.jpg");
   background-size: cover;      /* makes the image fill the section */
