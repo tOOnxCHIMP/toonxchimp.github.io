@@ -14,8 +14,8 @@ html, body {
   padding: 0;
   line-height: 1.6;
   background-image: url("SiteBackground.jpg");
-  background-size: cover;      /* makes the image fill the section */
-  background-position: center; /* centers image */
+  background-size: cover;      
+  background-position: center; 
   background-repeat: no-repeat;
 }
 
@@ -71,7 +71,7 @@ button:hover {
 footer {
   background-color: #1e1e2f;
   color: white;
-  text-align: center;
+  text-align: bottom;
   padding: 20px;
   font-size: 0.9rem;
   position: relative;
