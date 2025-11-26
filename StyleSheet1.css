@@ -15,7 +15,7 @@ body {
 /* ===== Header ===== */
 header {
   background-color: #1e1e2f;
-  background-image: (".\SiteBackground.jpg");
+  background-image: url(".\SiteBackground.jpg");
   background-size: cover;      /* makes the image fill the section */
   background-position: center; /* centers image */
   background-repeat: no-repeat;
