@@ -9,6 +9,8 @@ html, body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f9f9f9;
   color: #333;
+  display: flex;
+  flex-direction: column;
   height: 100%;
   margin: 0;
   padding: 0;
