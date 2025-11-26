@@ -4,7 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+main{
+	flex: 1, /* filling rest of space*/
+}
 html, body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f9f9f9;
