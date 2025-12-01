@@ -47,7 +47,8 @@ section {
     padding: 0;
     background-size: cover;
     background-color: whitesmoke;
-	opacity: 40%;
+	background-opacity: .4;
+	
 	
 }
 
