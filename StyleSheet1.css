@@ -46,7 +46,9 @@ header {
 section {
     padding: 0;
     background-size: cover;
-    background-color: whitesmoke
+    background-color: whitesmoke;
+	opacity: 40%;
+	
 }
 
 
