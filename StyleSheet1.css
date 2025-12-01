@@ -44,8 +44,9 @@ header {
 
 /* ===== Sections ===== */
 section {
-	padding: 0;
-	background-color: whitesmoke
+    padding: 0;
+    background-size: cover;
+    background-color: whitesmoke
 }
 
 
