@@ -73,14 +73,15 @@ button:hover {
 
 /* ===== Footer ===== */
 footer {
-  background-color: #1e1e2f;
-  color: white;
-  text-align: center;
-  width: 100vw;
-  position: fixed;
-  bottom: 0;
-  font-size: 0.9rem;
-  padding: 20px;
+    background-color: #1e1e2f;
+    color: white;
+    text-align: center;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    font-size: 0.9rem;
+    padding: 2px;
+    height: 60px;
 }
 
 /* ===== Hidden Sections ===== */
