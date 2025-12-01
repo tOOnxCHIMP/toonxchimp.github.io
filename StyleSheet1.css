@@ -90,5 +90,24 @@ footer {
 
 /* ===== Hidden Sections ===== */
 .hidden {
-  display: none;
+	max-height: 0 !important;
+	overflow: hidden;
+}
+
+/* Slide animation */
+.toggle-section {
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.4s ease;
+}
+
+/* Visible state */
+.toggle-section.active {
+	max-height: 600px; /* adjust based on section content size */
+}
+
+/* Active button appearance */
+.toggle-btn.active {
+	background-color: #333;
+	color: #fff;
 }
