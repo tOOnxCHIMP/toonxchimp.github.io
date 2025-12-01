@@ -4,9 +4,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 main{
 	flex: 1, /* filling rest of space*/
 }
+
 html, body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f9f9f9;
@@ -28,6 +30,7 @@ body {
 	flex-direction: column;
 	min-height: 100%;
 }
+
 /* ===== Header ===== */
 header {
   background-color: transparent;
@@ -41,7 +44,8 @@ header {
 
 /* ===== Sections ===== */
 section {
-  padding: 0;
+	padding: 0;
+}
 
 
 /* ===== Buttons ===== */
@@ -76,7 +80,7 @@ footer {
 
 /* ===== Hidden Sections ===== */
 .hidden {
-	max-height: 0 ;
+	max-height: 0 !important;
 	overflow: hidden;
 }
 
