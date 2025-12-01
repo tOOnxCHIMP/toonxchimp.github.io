@@ -52,7 +52,7 @@ section {
 
 /* ===== Buttons ===== */
 button {
-  background-color: #0078d7;
+  background-color: transparent;
   color: white;
   border: none;
   padding: 12px 20px;
